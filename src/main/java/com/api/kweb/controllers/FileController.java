@@ -1,3 +1,4 @@
+/*
 package com.api.kweb.controllers;
 
 import org.springframework.beans.factory.annotation.Autowired;
@@ -26,3 +27,4 @@ public class FileController {
         }
     }
 }
+*/
