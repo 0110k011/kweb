@@ -1,3 +1,4 @@
+/*
 package com.api.kweb.services;
 
 import javax.xml.parsers.DocumentBuilder;
@@ -66,3 +67,4 @@ public class XMLReader {
         }
     }
 }
+*/
